@@ -1,0 +1,15 @@
+mvn archetype:generate -DarchetypeGroupId=io.apigee.build-tools.enterprise4g -DarchetypeArtifactId=apigee-edge-quickstart-archetype -DarchetypeVersion=1
+
+
+
+io.apigee.build-tools.enterprise4g:apigee-edge-maven-plugin:1.0.0:configure
+
+io.apigee.build-tools.enterprise4g:apigee-edge-maven-plugin:1.0.0:resolve
+
+
+https://www.youtube.com/watch?v=DTJO45woPzI
+
+
+https://github.com/apigee/proxy-dependency-maven-plugin
+
+
